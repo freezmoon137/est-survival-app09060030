@@ -1,0 +1,163 @@
+2025-09-02 13:18:44,075 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-02 13:18:44,076 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-02 13:18:44,082 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-02 13:18:44,083 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-02 13:18:44,083 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-02 13:18:44,118 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.130:5000
+2025-09-02 13:18:44,119 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 13:18:44,130 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-02 13:18:46,042 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-02 13:18:46,043 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-02 13:18:46,050 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-02 13:18:46,051 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-02 13:18:46,051 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-02 13:18:46,065 - werkzeug - WARNING -  * Debugger is active!
+2025-09-02 13:18:46,072 - werkzeug - INFO -  * Debugger PIN: 112-792-454
+2025-09-02 13:33:10,679 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est_survival_web_app\\app.py', reloading
+2025-09-02 13:33:10,680 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est_survival_web_app\\app.py', reloading
+2025-09-02 13:33:10,764 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est_survival_web_app\\app.py', reloading
+2025-09-02 13:33:10,765 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est_survival_web_app\\app.py', reloading
+2025-09-02 13:33:11,207 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-02 13:33:13,137 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-02 13:33:13,137 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-02 13:33:13,145 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-02 13:33:13,145 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-02 13:33:13,145 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-02 22:32:20,019 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-02 22:32:20,019 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-02 22:32:20,039 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-02 22:32:20,039 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-02 22:32:20,039 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-02 22:32:20,067 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-09-02 22:32:20,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-02 22:32:30,678 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 22:32:30] "GET /?ide_webview_request_time=1756823550619 HTTP/1.1" 200 -
+2025-09-02 22:32:31,563 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 22:32:31] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-09-02 22:32:31,566 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 22:32:31] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-09-02 22:32:31,713 - werkzeug - INFO - 127.0.0.1 - - [02/Sep/2025 22:32:31] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-09-05 23:48:39,573 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:48:39,573 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:48:39,595 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:48:39,595 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:48:39,595 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:48:39,633 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-09-05 23:48:39,634 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 23:48:39,645 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-05 23:48:41,684 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:48:41,684 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:48:41,695 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:48:41,696 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:48:41,696 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:48:41,714 - werkzeug - WARNING -  * Debugger is active!
+2025-09-05 23:48:41,721 - werkzeug - INFO -  * Debugger PIN: 112-792-454
+2025-09-05 23:50:03,590 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:50:03,590 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:50:03,591 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:50:03,645 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:50:03,646 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:50:03,646 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:50:04,262 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-05 23:50:06,225 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:50:06,226 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:50:06,234 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:50:06,234 - __main__ - INFO - 加载的模型类型: <class 'sksurv.ensemble.forest.ExtraSurvivalTrees'>
+2025-09-05 23:50:06,234 - __main__ - INFO - 模型是否有is_fitted属性: False
+2025-09-05 23:50:06,234 - __main__ - INFO - 模型已强制标记为已训练状态
+2025-09-05 23:50:06,234 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:50:06,235 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:50:06,245 - werkzeug - WARNING -  * Debugger is active!
+2025-09-05 23:50:06,249 - werkzeug - INFO -  * Debugger PIN: 112-792-454
+2025-09-05 23:50:20,729 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:50:20,730 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:50:20,736 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:50:20,736 - __main__ - INFO - 加载的模型类型: <class 'sksurv.ensemble.forest.ExtraSurvivalTrees'>
+2025-09-05 23:50:20,736 - __main__ - INFO - 模型是否有is_fitted属性: False
+2025-09-05 23:50:20,736 - __main__ - INFO - 模型已强制标记为已训练状态
+2025-09-05 23:50:20,736 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:50:20,738 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:50:20,765 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-09-05 23:50:20,765 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 23:50:20,776 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-05 23:50:22,780 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:50:22,780 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:50:22,790 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:50:22,791 - __main__ - INFO - 加载的模型类型: <class 'sksurv.ensemble.forest.ExtraSurvivalTrees'>
+2025-09-05 23:50:22,791 - __main__ - INFO - 模型是否有is_fitted属性: False
+2025-09-05 23:50:22,791 - __main__ - INFO - 模型已强制标记为已训练状态
+2025-09-05 23:50:22,791 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:50:22,792 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:50:22,806 - werkzeug - WARNING -  * Debugger is active!
+2025-09-05 23:50:22,812 - werkzeug - INFO -  * Debugger PIN: 112-792-454
+2025-09-05 23:51:05,523 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:51:05,527 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:51:05,528 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:51:05,595 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:51:05,595 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:51:05,596 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:51:06,192 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-05 23:51:08,117 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:51:08,117 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:51:08,124 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:51:08,124 - __main__ - INFO - 加载的模型类型: <class 'sksurv.ensemble.forest.ExtraSurvivalTrees'>
+2025-09-05 23:51:08,124 - __main__ - INFO - 模型是否有is_fitted属性: False
+2025-09-05 23:51:08,124 - __main__ - INFO - 模型已强制标记为已训练状态
+2025-09-05 23:51:08,124 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:51:08,124 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:51:08,138 - werkzeug - WARNING -  * Debugger is active!
+2025-09-05 23:51:08,144 - werkzeug - INFO -  * Debugger PIN: 112-792-454
+2025-09-05 23:51:23,180 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:51:23,181 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:51:23,190 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:51:23,190 - __main__ - INFO - 加载的模型类型: <class 'sksurv.ensemble.forest.ExtraSurvivalTrees'>
+2025-09-05 23:51:23,190 - __main__ - INFO - 模型是否有is_fitted属性: False
+2025-09-05 23:51:23,190 - __main__ - INFO - 模型已强制标记为已训练状态
+2025-09-05 23:51:23,190 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:51:23,190 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:51:23,217 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.239:5000
+2025-09-05 23:51:23,217 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 23:51:23,230 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-05 23:51:25,229 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:51:25,229 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:51:25,236 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:51:25,236 - __main__ - INFO - 加载的模型类型: <class 'sksurv.ensemble.forest.ExtraSurvivalTrees'>
+2025-09-05 23:51:25,236 - __main__ - INFO - 模型是否有is_fitted属性: False
+2025-09-05 23:51:25,236 - __main__ - INFO - 模型已强制标记为已训练状态
+2025-09-05 23:51:25,236 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:51:25,236 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:51:25,253 - werkzeug - WARNING -  * Debugger is active!
+2025-09-05 23:51:25,257 - werkzeug - INFO -  * Debugger PIN: 112-792-454
+2025-09-05 23:52:26,495 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:52:26,495 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:52:27,672 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-05 23:52:29,655 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:52:29,655 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:52:29,665 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:52:29,665 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:52:29,665 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:52:29,684 - werkzeug - WARNING -  * Debugger is active!
+2025-09-05 23:52:29,689 - werkzeug - INFO -  * Debugger PIN: 112-792-454
+2025-09-05 23:52:45,426 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:52:45,427 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:52:45,427 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ZhuanZ.DESKTOP-PH97BKO\\Documents\\est-survival-app09051226\\app.py', reloading
+2025-09-05 23:52:46,003 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-05 23:52:48,131 - __main__ - INFO - 启动EST生存分析Web应用...
+2025-09-05 23:52:48,132 - __main__ - INFO - 尝试从 ./est_model.pkl 加载模型...
+2025-09-05 23:52:48,142 - __main__ - INFO - 从字典格式中提取模型对象
+2025-09-05 23:52:48,144 - __main__ - INFO - 成功从 ./est_model.pkl 加载模型
+2025-09-05 23:52:48,144 - __main__ - INFO - 模型加载成功，启动Web服务器
+2025-09-05 23:52:48,159 - werkzeug - WARNING -  * Debugger is active!
+2025-09-05 23:52:48,163 - werkzeug - INFO -  * Debugger PIN: 112-792-454

@@ -1,0 +1,17 @@
+# 排除Go语言相关文件和构建
+*.go
+go.mod
+go.sum
+go.work
+go.work.sum
+vendor/
+
+# 排除其他语言的构建文件
+*.rs
+Cargo.toml
+Cargo.lock
+package.json
+node_modules/
+
+# 确保只构建Python应用
+# 这个文件的存在有助于Render正确识别项目类型

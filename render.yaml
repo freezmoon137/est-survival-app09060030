@@ -1,0 +1,44 @@
+# Render部署配置 - 修复Python版本兼容性问题
+# 解决setuptools.build_meta无法导入的错误
+# 明确指定Python环境，避免被误识别为Go项目
+services:
+  - type: web
+    name: est-survival-web-app
+    env: python
+    runtime: python-3.9.18
+    plan: free
+    # Python版本通过PYTHON_VERSION环境变量指定
+    region: oregon
+    buildCommand: |
+      echo "开始构建EST生存分析Web应用..."
+      echo "Python版本: $(python --version)"
+      echo "升级pip和构建工具..."
+      python -m pip install --upgrade pip==23.3.1
+      pip install setuptools==68.2.2 wheel==0.41.2
+      echo "安装应用依赖..."
+      pip install -r requirements-minimal.txt
+      echo "验证关键包安装..."
+      python -c "import flask; print('Flask版本:', flask.__version__)"
+      python -c "import numpy; print('NumPy版本:', numpy.__version__)"
+      python -c "import pandas; print('Pandas版本:', pandas.__version__)"
+      echo "构建完成！"
+    startCommand: |
+      echo "启动EST生存分析Web应用..."
+      echo "端口: $PORT"
+      python app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.18
+      - key: PORT
+        value: 10000
+      - key: FLASK_ENV
+        value: production
+      - key: PYTHONUNBUFFERED
+        value: 1
+      - key: FLASK_DEBUG
+        value: 0
+    healthCheckPath: /
+    # 增加构建超时时间
+    buildTimeout: 600
+    # 预热设置
+    previewsEnabled: false

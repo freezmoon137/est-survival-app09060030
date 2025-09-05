@@ -1,0 +1,3 @@
+# 重定向到 requirements-minimal.txt
+# 这个文件存在是为了确保 Render 使用我们的 render.yaml 配置
+-r requirements-minimal.txt
